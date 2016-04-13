@@ -14,7 +14,7 @@
   cursor: pointer;
 }
 body {
-  background: url("../img/bcg.jpg") repeat-x;
+  background: url("../img/bcg.jpg") repeat-y;
   font-family: Arial, Tahoma, Verdana;
 }
 .grey-line {
@@ -197,7 +197,7 @@ body {
 }
 .img-desription {
   position: absolute;
-  width: 100%;
+  width: 85%;
   height: 100%;
   background: rgba(0, 0, 0, 0.5);
   color: white;
