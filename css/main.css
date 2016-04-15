@@ -192,12 +192,16 @@ body {
 }
 .gallery__box__img {
   position: relative;
-  display: block;
-  width: 100%;
 }
+
+.img__boc__img__picture {
+  display: block;
+  width: 95%;
+}
+
 .img-desription {
   position: absolute;
-  width: 100%;
+  width: 95%;
   height: 100%;
   background: rgba(0, 0, 0, 0.5);
   color: white;
