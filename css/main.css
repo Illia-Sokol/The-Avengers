@@ -14,7 +14,7 @@
   cursor: pointer;
 }
 body {
-  background: url("../img/bcg.jpg") repeat-y;
+  background: url("../img/bcg.jpg") repeat;
   font-family: Arial, Tahoma, Verdana;
 }
 .grey-line {
